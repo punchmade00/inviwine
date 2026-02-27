@@ -1,0 +1,12 @@
+{
+  "name": "inviwine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd apps/mobile && npx expo start",
+    "start": "cd apps/mobile && npx expo start",
+    "ios": "cd apps/mobile && npx expo start --ios",
+    "android": "cd apps/mobile && npx expo start --android",
+    "install": "cd apps/mobile && npm install"
+  }
+}
